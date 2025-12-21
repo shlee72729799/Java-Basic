@@ -1,4 +1,4 @@
-package Class1;
+package class1;
 
 public class ClassStart1 {
 

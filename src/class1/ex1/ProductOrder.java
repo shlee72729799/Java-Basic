@@ -1,4 +1,4 @@
-package Class1.ex1;
+package class1.ex1;
 
 public class ProductOrder {
     String productName;

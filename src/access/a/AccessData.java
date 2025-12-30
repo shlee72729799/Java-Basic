@@ -20,6 +20,7 @@ public class AccessData {
         publicField = 100;
         defaultField = 200;
         privateField = 300;
+
         publicMethod();
         defaultMethod();
         privateMethod();
